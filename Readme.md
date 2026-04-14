@@ -1,14 +1,14 @@
-# redhat_openshift_record
-Red Hat OpenShift Administration II: Operating a Production Kubernetes Cluster (DO280) 과정에서 배운 내용을 정리한 공간입니다.
+# redhat_openstack_record
+Class Dashboard - Red Hat OpenStack Administration I: Core Operations for Domain Operators (CL110) 과정에서 배운 내용을 정리한 공간입니다.
 
 ### 👨🏻‍💻 스터디 노트
 - [day1 - 1.Openstack Overview](https://github.com/alpapago/openstack_/blob/main/Day1(2026.04.13)/1.Openstack%20Overview.md)
 - [day1 - 2.Multi-tenancy](https://github.com/alpapago/openstack_/blob/main/Day1(2026.04.13)/2.Multi-tenancy.md)
 - [day2 - 3.Software-defined Network](https://github.com/alpapago/openstack_/blob/main/Day2(2026.04.14)/3.Software-defined%20Network.md)
-- [day2 - 4.Helm Chart](https://github.com/shinae-lee/openshift_/blob/main/Day2(2025.12.16)/4.HelmCharts.md)
-- [day2 - 5.Authentication and Authorization](https://github.com/shinae-lee/openshift_/blob/main/Day2(2025.12.16)/5.Authentication%20and%20Authorization.md)
-- [day2 - 6.RBAC](https://github.com/shinae-lee/openshift_/blob/main/Day2(2025.12.16)/6.RBAC.md)
-- [day2 - 7.Protect External Traffic with TLS](https://github.com/shinae-lee/openshift_/blob/main/Day2(2025.12.16)/7.Protect%20External%20Traffic%20with%20TLS.md)
+- [day2 - 4.Create Instance](https://github.com/alpapago/openstack_/blob/main/Day2(2026.04.14)/4.Create%20Instance.md)
+- [day2 - 5.Storage](https://github.com/alpapago/openstack_/blob/main/Day2(2026.04.14)/5.Storage.md)
+- [day3 - 6.RBAC](https://github.com/shinae-lee/openshift_/blob/main/Day2(2025.12.16)/6.RBAC.md)
+- [day3 - 7.Protect External Traffic with TLS](https://github.com/shinae-lee/openshift_/blob/main/Day2(2025.12.16)/7.Protect%20External%20Traffic%20with%20TLS.md)
 - [day3 - 8.Network Policy](https://github.com/shinae-lee/openshift_/blob/main/Day3(2025.12.17)/8.Network%20Policy.md)
 - [day3 - 9.Protect Internal Traffic with TLS](https://github.com/shinae-lee/openshift_/blob/main/Day3(2025.12.17)/9.Protect%20Internal%20Traffic%20with%20TLS.md)
 - [day3 - 10.Load Balancer Services](https://github.com/shinae-lee/openshift_/blob/main/Day3(2025.12.17)/10.Load%20Balancer%20Services.md)
