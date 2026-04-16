@@ -19,8 +19,3 @@ Class Dashboard - Red Hat OpenStack Administration I: Core Operations for Domain
 - [day3 - 13.Per-Project Resource Constraints(Limit Ranges)](https://github.com/shinae-lee/openshift_/blob/main/Day3(2025.12.17)/13.Per-Project%20Resource%20Constraints(Limit%20Ranges).md)
 - [day4 - 14.The Project Template and the Self-Provisioner Role](https://github.com/shinae-lee/openshift_/blob/main/Day4(2025.12.18)/14.The%20Project%20Template%20and%20the%20Self-Provisioner%20Role.md)
 - [day4 - 15.Kubernetes Operators and the Operator Lifecycle Manager](https://github.com/shinae-lee/openshift_/blob/main/Day4(2025.12.18)/15.Kubernetes%20Operators%20and%20the%20Operator%20Lifecycle%20Manager.md)
-- [day4 - 16.Install Operators with the Web Console](https://github.com/shinae-lee/openshift_/blob/main/Day4(2025.12.18)/16.Install%20Operators%20with%20the%20Web%20Console.md)
-- [day4 - 17.Install Operators with the CLI](https://github.com/shinae-lee/openshift_/blob/main/Day4(2025.12.18)/17.Install%20Operators%20with%20the%20CLI.md)
-- [day4 - 18.Control Application Permissions with Security Context Constraints](https://github.com/shinae-lee/openshift_/blob/main/Day4(2025.12.18)/18.Control%20Application%20Permissions%20with%20Security%20Context%20Constraints.md)
-- [day4 - 19.Allow Application Access to Kubernetes APIs](https://github.com/shinae-lee/openshift_/blob/main/Day4(2025.12.18)/19.Allow%20Application%20Access%20to%20Kubernetes%20APIs.md)
-- [day4 - 20.Cluster and Node Maintenance with Kubernetes Cron Jobs](https://github.com/shinae-lee/openshift_/blob/main/Day4(2025.12.18)/20.Cluster%20and%20Node%20Maintenance%20with%20Kubernetes%20Cron%20Jobs.md)
