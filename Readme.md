@@ -12,5 +12,5 @@ Class Dashboard - Red Hat OpenStack Administration I: Core Operations for Domain
 - [day3 - 8.Security](https://github.com/alpapago/openstack_/blob/main/Day3(2026.04.16)/8.Security.md)
 - [day3 - 9.cloud-init 구성](https://github.com/alpapago/openstack_/blob/main/Day3(2026.04.16)/9.cloud-init%20%EB%B6%80%ED%8C%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8.md)
 - [day4 - 10.Auth](https://github.com/alpapago/openstack_/blob/main/Day4(2026.04.17)/10.%EC%9E%90%EA%B2%A9%EC%A6%9D%EB%AA%85.md)
-- [day4 - 11.Multi Site overcloud ](https://github.com/shinae-lee/openshift_/blob/main/Day3(2025.12.17)/11.Multus%20Secondary%20Resource.md)
-- [day4 - 12.Placement Service ](https://github.com/shinae-lee/openshift_/blob/main/Day3(2025.12.17)/11.Multus%20Secondary%20Resource.md)
+- [day4 - 11.Multi Site overcloud ](https://github.com/alpapago/openstack_/blob/main/Day4(2026.04.17)/11.multi%20site%20cloud.md)
+- [day4 - 12.Placement Service ](https://github.com/alpapago/openstack_/blob/main/Day4(2026.04.17)/12.Placement.md)
